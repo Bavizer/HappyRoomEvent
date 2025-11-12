@@ -39,21 +39,19 @@ To start or end the event you can use one of the methods below:
 ## 🕺 **Disco**
 Floor has many different colors. At the beggining of a game round, floor randomly and quickly changes its colors, then all colors except one randomly selected begin to turn black. Players standing on the black floor will die.
 
-https://github.com/user-attachments/assets/86c5c427-5d86-478a-9292-1f44244ac458
+https://github.com/user-attachments/assets/4fa67bee-1806-43f8-99ce-db74f5151aef
 
 ## 🔴 **Erythrophobia**
 Random floor parts begin to turn red. In addition, the red stick rotates and accelerates. Players touching anything red will die.
 
-https://github.com/user-attachments/assets/19e9c4fe-79fe-4b63-b729-2916d1c05257
+https://github.com/user-attachments/assets/70341b4f-947c-4a3a-892e-b6dfd137b733
 
 ## 🔥 **Lava**
 Lava begins to fill the room. There is a path through different challenges to the top of the room. Players touching the lava will die.
 
-https://github.com/user-attachments/assets/cf56822c-3ac2-4ffb-9931-6a82da8f5c7b
+https://github.com/user-attachments/assets/1d704680-bc88-465e-a2a8-4cc44beeae1b
 
 # 🖼 Gallery
-![DiscoSubEvent](https://github.com/user-attachments/assets/ac5b1397-f6e1-4319-a5ab-5ec98b1e2620)
-![ErythrophobiaSubEvent](https://github.com/user-attachments/assets/bdbe0151-8604-4ba1-815c-6174f1c47230)
-![LavaSubEvent](https://github.com/user-attachments/assets/ce28737a-008a-4e80-adc0-3cdfbef8e4dc)
-![HappyRoom_Unity](https://github.com/user-attachments/assets/3fc3eb5f-1356-4b7a-b74a-82cf5d7b94c0)
-
+![DiscoSubEvent](https://github.com/user-attachments/assets/df5718b4-3930-4851-a701-746b3ce84903)
+![ErythrophobiaSubEvent](https://github.com/user-attachments/assets/ee8ac251-708a-4475-88a3-0cf173b74a45)
+![LavaSubEvent](https://github.com/user-attachments/assets/aa3a67ba-789d-4581-8da4-0db8beb89b40)
